@@ -73,6 +73,68 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
 
+## UX Designer
+
+### Role Summary
+Ensures user experience is central throughout the project, advocating for usability, accessibility, and design consistency.
+
+### Responsibilities
+- Conduct user research and requirement gathering
+- Create wireframes, prototypes, and user flows
+- Validate and refine designs based on user and stakeholder feedback
+
+### Typical Communication
+- Collaborates with Product Managers on requirements
+- Works with Developers to implement designs
+- Participates in demos/reviews
+
+---
+
+## Business Analyst
+
+### Role Summary
+Acts as a bridge between business needs and technical execution.
+
+### Responsibilities
+- Gather and document business requirements
+- Translate requirements into actionable specs
+- Support testing and validation
+
+### Typical Communication
+- Coordinates with PMs, Product Managers, and Developers
+
+---
+
+## DevOps Engineer
+
+### Role Summary
+Manages CI/CD pipelines, infrastructure, and deployment reliability.
+
+### Responsibilities
+- Implement and maintain build, test, and deployment pipelines
+- Monitor infrastructure and resolve operational issues
+- Champion automation and security best practices
+
+### Typical Communication
+- Collaborates with Developers and Project Managers
+- Supports QA and testing environments
+
+---
+
+## Customer Support
+
+### Role Summary
+Provides the customer’s perspective, bringing feedback and user problems to the team.
+
+### Responsibilities
+- Gather and categorize customer issues
+- Share urgent issues and pain points with the team
+- Help create user guides and FAQs
+
+### Typical Communication
+- With Product/Project Managers and QA to improve quality
+
+
 ---
 
 ## How these personas are used in the exercise
